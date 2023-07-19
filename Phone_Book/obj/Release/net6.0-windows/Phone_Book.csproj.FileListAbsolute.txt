@@ -1,0 +1,75 @@
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\Phone_Book.exe
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\Phone_Book.deps.json
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\Phone_Book.runtimeconfig.json
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\Phone_Book.pdb
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.AssemblyReference.cache
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.Form1.resources
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.Properties.Resources.resources
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.GenerateResource.cache
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.AssemblyInfoInputs.cache
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.AssemblyInfo.cs
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.CopyComplete
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\refint\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.pdb
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.genruntimeconfig.cache
+C:\Users\LENOVO.PIESC\Desktop\PROJECTS\C# Projects\Phone_Book\Phone_Book\obj\Release\net6.0-windows\ref\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\Phone_Book.exe
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\Phone_Book.deps.json
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\Phone_Book.runtimeconfig.json
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\Phone_Book.pdb
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.AssemblyReference.cache
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.Form1.resources
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.Properties.Resources.resources
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.GenerateResource.cache
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.AssemblyInfoInputs.cache
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.AssemblyInfo.cs
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.CopyComplete
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\refint\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.pdb
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\Phone_Book.genruntimeconfig.cache
+C:\Users\LENOVO.PIESC\Desktop\Phone_Book\Phone_Book\Phone_Book\obj\Release\net6.0-windows\ref\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\Phone_Book.exe
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\Phone_Book.deps.json
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\Phone_Book.runtimeconfig.json
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\Phone_Book.pdb
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.AssemblyReference.cache
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.Form1.resources
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.Properties.Resources.resources
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.GenerateResource.cache
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.AssemblyInfoInputs.cache
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.AssemblyInfo.cs
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.csproj.CopyComplete
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\refint\Phone_Book.dll
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.pdb
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\Phone_Book.genruntimeconfig.cache
+C:\Users\LENOVO.PIESC\Desktop\Contact_Info\Phone_Book\obj\Release\net6.0-windows\ref\Phone_Book.dll

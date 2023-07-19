@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phone_Book", "Phone_Book\Phone_Book.csproj", "{49C61B2F-6969-4BA7-AE2E-BAA4943F00A6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Contact_Info_Setup", "Contact_Info_Setup\Contact_Info_Setup.vdproj", "{BDC98D84-252D-400B-B1CC-63E71993408E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C61B2F-6969-4BA7-AE2E-BAA4943F00A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C61B2F-6969-4BA7-AE2E-BAA4943F00A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C61B2F-6969-4BA7-AE2E-BAA4943F00A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C61B2F-6969-4BA7-AE2E-BAA4943F00A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC98D84-252D-400B-B1CC-63E71993408E}.Debug|Any CPU.ActiveCfg = Debug
+		{BDC98D84-252D-400B-B1CC-63E71993408E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD546F4-3428-403E-A80C-D3C135994980}
+	EndGlobalSection
+EndGlobal
